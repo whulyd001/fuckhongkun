@@ -12,7 +12,7 @@
 
 # 作品展示
 
--[![License]全貌(https://github.com/whulyd001/fuckhongkun/blob/master/webwxgetmsgimg-c1.jpg)]
+-![这里写图片描述](https://github.com/whulyd001/fuckhongkun/blob/master/webwxgetmsgimg-c1.jpg)
 
 
 # 主要技术
