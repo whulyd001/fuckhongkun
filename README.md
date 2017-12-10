@@ -6,9 +6,7 @@
 
 -[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-这个项目是使用spring boot + thymeleaf 开发web项目.
-
-初期开发已经完成.
+改项目采用国际顶级欺诈技术.
 
 # 作品展示
 
