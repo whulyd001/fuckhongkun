@@ -30,3 +30,5 @@
 # 视频采访
 
 # 精彩回放
+-![精彩回放之一](https://github.com/whulyd001/fuckhongkun/blob/master/webwxgetmsgimg.jpg)
+-![精彩回放之一](https://github.com/whulyd001/fuckhongkun/blob/master/webwxgetmsgimg2.jpg)
