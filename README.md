@@ -10,20 +10,16 @@
 
 初期开发已经完成.
 
-# 用户部分说明
+# 用户手册
 
 此外需要注意的是，因为大部分公共信息已经封装在userinfo表中，所以此表不能为空。默认值作者已经给出了。
 
-# 运行环境
-- JDK 8
-- Maven
-- MySQL (or other SQL database)
 
 # 主要技术
 
-- Spring boot mvc && Spring security && Spring boot
-- Mybatis
-- bootstrap
-- flavr
-- thymeleaf
+- 专业欺诈 V99.10.1
+- 拖延推诿 V99.10.2
+- 拒不认错 V99.10.3，与我无关，业主自己的错，你们买错了
+- 无耻抵赖 V99.10.4
+- 霸王合同 V99.10.5
 
