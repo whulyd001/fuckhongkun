@@ -13,7 +13,7 @@
 
 # 鸿坤光辉事迹
 
-黑心开发商鸿坤原乡小镇:  样板间 沙盘 宣传彩页虚假宣传  欺诈消费  承诺有花园  有露台  有下沉庭院   实际交房所有承诺全都没有，而且住宅出入门口距离机动车道仅仅0.5米，非常危险，有图为证。而且态度蛮横不给解决，我们上门分别找过售楼处，物业，鸿坤集团交涉，鸿坤集团大门紧闭，不让进入，所以：希望各位帮忙转发曝光黑心开发商，在此感谢！
+黑心开发商鸿坤原乡小镇:  样板间 沙盘 宣传彩页虚假宣传  欺诈消费  承诺有花园  有露台  有下沉庭院   实际交房所有承诺全都没有，而且住宅出入门口距离机动车道仅仅0.5米，非常危险，有图为证。而且态度蛮横不给解决，我们上门分别找过售楼处，物业，鸿坤集团交涉，鸿坤集团大门紧闭，不让进入，所以在此投诉：希望各位帮忙转发曝光黑心开发商，在此感谢！
 
 # 作品展示
 
@@ -56,9 +56,19 @@
 -![顶级设计之一](https://github.com/whulyd001/hongkun/blob/master/c6.jpg)
 -![顶级设计之一](https://github.com/whulyd001/hongkun/blob/master/c7.jpg)
 
+# 叠拼
+-![顶级设计之一](https://github.com/whulyd001/hongkun/blob/master/d1.jpg)
+-![顶级设计之一](https://github.com/whulyd001/hongkun/blob/master/d2.jpg)
+-![顶级设计之一](https://github.com/whulyd001/hongkun/blob/master/d3.jpg)
+-![顶级设计之一](https://github.com/whulyd001/hongkun/blob/master/d4.jpg)
+-![顶级设计之一](https://github.com/whulyd001/hongkun/blob/master/d5.jpg)
+-![顶级设计之一](https://github.com/whulyd001/hongkun/blob/master/d6.jpg)
+
 # 视频采访
 
 视频资料：暂不展示
+
+https://weibo.com/tv/v/Fy3qwniCV?fid=1034:bdbde3d303c3ac7d13dcd06161117173
 
 音频资料：暂不展示
 
@@ -66,5 +76,14 @@
 -![精彩回放之一](https://github.com/whulyd001/fuckhongkun/blob/master/webwxgetmsgimg.jpg)
 -![精彩回放之一](https://github.com/whulyd001/fuckhongkun/blob/master/webwxgetmsgimg2.jpg)
 -![精彩回放之一](https://github.com/whulyd001/fuckhongkun/blob/master/1210151330.jpg)
+-![精彩回放之一](https://github.com/whulyd001/hongkun/blob/master/67b69d0bly1fm2qwa2j05j20zo0qowre.jpg)
+-![精彩回放之一](https://github.com/whulyd001/hongkun/blob/master/67b69d0bly1fm2qwb55l8j20zo0qodt9.jpg)
+-![精彩回放之一](https://github.com/whulyd001/hongkun/blob/master/0070wiHXly1fm95jfma5xj30dd0a00u7.jpg)
+-![精彩回放之一](https://github.com/whulyd001/hongkun/blob/master/0070wiHXly1fm8yjlsicvj31be0qo4a5.jpg)
+-![精彩回放之一](https://github.com/whulyd001/hongkun/blob/master/0070wiHXly1fm8yjkx8eqj31be0qo7gc.jpg)
+-![精彩回放之一](https://github.com/whulyd001/hongkun/blob/master/0070wiHXly1fm8yjk5mauj31be0qodsd.jpg)
+-![精彩回放之一](https://github.com/whulyd001/hongkun/blob/master/0070wiHXly1fm8j6430v5j30zn0qo12v.jpg)
+
+
 -![精彩回放之一](https://github.com/whulyd001/fuckhongkun/blob/master/20171210151343.mp4)
 
